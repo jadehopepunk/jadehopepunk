@@ -2,6 +2,7 @@
 title: Jade lives in Merri-bek and cares about building better futures.
 subtitle: This is my home on the web to share my projects, meet collaborators, and learn how to live as if the planet is on the line.
 seo_title: Jade
+feature-image: anarchist-bookshelf.jpg
 
 primary_cta_page: "about"
 secondary_cta_page: "projects"
