@@ -17,11 +17,11 @@ label_drafts = true # Add a label indicator next to the title of any built draft
 newsletter_header = "This is my custom newsletter header with a captivating title."
 newsletter_description = "This is my custom newsletter description that tells you why you should sign up."
 newsletter_submit = "Join now"
-global_newsletter = true # Enable newsletter site-wide
+global_newsletter = false # Enable newsletter site-wide
 
 # CSS / JavaScript
 enable_postcss = false # Enable if you're using npm and want to utilize PostCSS processing
-#custom_css = 'custom.css' # Add the specified file to assets before setting this param to avoid errors
+custom_css = 'custom.css' # Add the specified file to assets before setting this param to avoid errors
 #custom_js = 'custom.js' # Add the specified file to assets before setting this param to avoid errors
 
 ### Web schemas
@@ -34,8 +34,8 @@ twitterSite = "johndoestwitter" # Enter your twitter handle without the @
 twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
 
 # JSON-LD structured data schemas
-schemaName = "John Doe" # Enter your name
-schemaLocale = "en-US" # Structured data locale
+schemaName = "Jade" # Enter your name
+schemaLocale = "en-AU" # Structured data locale
 schemaImage = "images/default.png" # Image for Person structured data schema. Enter path to the image.
 schemaImageWidth = 453 # Width of the above image
 schemaImageHeight = 455 # Height of the above image
@@ -59,7 +59,7 @@ about_page_socials = true
 # Enable or disable individual social share icons in posts
 [social.share]
   facebook = true
-  linkedin = true
-  twitter = true
+  linkedin = false
+  twitter = false
   reddit = true
   email = true
