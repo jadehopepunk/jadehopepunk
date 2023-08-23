@@ -53,8 +53,8 @@ about_page_socials = true
   stack_overflow = false # include user id
   email = "jade@hopepunk.me"
   # linkedin = "username" # Comment out to disable
-  # mastodon_server = "example.social" # include subdomains if relevant, scheme not needed (defaults to https)
-  # mastodon_user = "username" # don't include preceding @
+  mastodon_server = "hachyderm.io" # include subdomains if relevant, scheme not needed (defaults to https)
+  mastodon_user = "jadehopepunk" # don't include preceding @
 
 # Enable or disable individual social share icons in posts
 [social.share]
