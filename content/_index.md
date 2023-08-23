@@ -1,7 +1,7 @@
 ---
-title: Jump-start your personal blog and portfolio with the Hugo Liftoff theme.
-subtitle: Minimal blog/portfolio theme with a focus on content creation and SEO best practices. An ideal choice for technical users jump-starting a personal brand.
-seo_title: Hugo Liftoff | Hugo theme for creators
+title: Jade lives in Merri-bek and cares about building better futures.
+subtitle: This is my home on the web to share my projects, meet collaborators, and learn how to live as if the planet is on the line.
+seo_title: Jade
 
 primary_cta_page: "about"
 secondary_cta_page: "projects"

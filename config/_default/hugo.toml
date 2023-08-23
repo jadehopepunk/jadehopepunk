@@ -2,7 +2,7 @@
 baseURL = 'https://www.example.com/' # Enter your full production URL
 languageCode = 'en-us' # Default
 timeZone = 'America/New_York' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-title = 'Example Site' # Site title used throughout site
+title = 'Jade' # Site title used throughout site
 
 ### SEO, Analytics & 3rd-party
 enableRobotsTXT = true # To overwrite the theme's robots.txt, add your own in the /layouts/ directory
@@ -13,7 +13,7 @@ rssLimit = -1 # -1 is unlimited RSS entries
 ### Content & Publishing
 # Please see https://gohugo.io/getting-started/configuration/ for detailed explanations
 buildDrafts = false # Default
-buildExpired = false # Default 
+buildExpired = false # Default
 buildFuture = false # Default
 canonifyURLs = false # Default
 defaultContentLanguage = 'en' # Default
@@ -49,7 +49,7 @@ theme = 'hugo-liftoff'
 
 [taxonomies]
     tag = 'tags'
-    category = 'categories'    
+    category = 'categories'
     series = 'series' # Allows you to create an organized series of posts (e.g. multi-part tutorial)
     project-type = 'project types' # Categorize projects by type (e.g. client work, personal, open source, etc.)
 
