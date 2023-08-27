@@ -12,4 +12,4 @@ projects_section_heading: My Projects
 ---
 
 {{< recent-posts 5 >}}
-{{< projects 5 >}}
+{{< projects 10 >}}
