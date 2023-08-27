@@ -2,7 +2,7 @@
 title: Woodworking at Maker Community
 seo_title: Woodworking at Maker Community
 summary: I volunteer at Maker Community, Brunswick's local, non-profit makerspace. I've spent a couple of years as committee president, and I now steward the workbench area and teach hand-tool woodworking.
-description: Portfolio Project 1 is my first portfolio project.
+description: I volunteer at Maker Community, Brunswick's local, non-profit makerspace. I've spent a couple of years as committee president, and I now steward the workbench area and teach hand-tool woodworking.
 slug: maker-community
 author: Jade
 
