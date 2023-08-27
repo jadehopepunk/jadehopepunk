@@ -19,9 +19,9 @@ project types:
     - Current
 
 techstack:
-    - Housing
+    - Pluralism
+    - Prefigurative Politics
     - Collectivism
-    - Accessability
 live_url: https://panga.network
 source_url:
 ---
