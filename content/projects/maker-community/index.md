@@ -53,5 +53,9 @@ When people make their own possessions, they are embued with a personal story th
 
 There is a long history of connection between craft (such as woodworking) and utopian anti-capitalist movements. My practice of woodwork is directly linked to the philosphies of Ruskin, Morris, Stickley and other leaders of the Arts & Crafts movement.
 
+### 5. Resilience
+
+In a future needing real local resilience, a well equipped makerspace, and a community of people with practical skills, could be materially useful to saving lives and providing necessary supports.
+
 I have a nascant project to link these elements further together over at: [Subversive Woodworking](https://subversivewoodworking.co/wiki/index.php?title=Subversive_Woodworking)
 

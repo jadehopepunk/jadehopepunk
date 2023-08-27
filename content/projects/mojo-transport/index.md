@@ -2,7 +2,7 @@
 title: Mojo Transport Collective
 seo_title: Mojo Transport Collective
 summary: A vehicle sharing collective starting out of Mojo Manor and perhaps expanding to feature multi-house collectivism.
-description: A vehicle sharing collective starting out of Mojo Manor and perhaps expanding to feature multi-house collectivism.
+description:
 slug: mojo-transport
 author: Jade
 

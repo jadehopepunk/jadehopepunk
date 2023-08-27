@@ -1,8 +1,8 @@
 ---
 title: Panga
 seo_title: Panga
-summary: Panga is a project to support multi-house collectives which want to try a plurality of different prefigutive ways of living.
-description: Panga is a project to support multi-house collectives which want to try a plurality of different prefigutive ways of living.
+summary: Panga is a project to support multi-house collectives which want to try a plurality of different prefigurative ways of living.
+description:
 slug: panga
 author: Jade
 
@@ -12,8 +12,8 @@ lastmod:
 expiryDate:
 publishDate:
 
-feature_image: crown-shy.webp
-feature_image_alt: Cover art from Becky Chambers' novel, "A Prayer for the Crown Shy" by FeiFei Ruan.
+feature_image: solarpunk.jpg
+feature_image_alt: A picture of a futuristic sci-fi city centered around greenery and a large tree.
 
 project types:
     - Current
@@ -32,7 +32,7 @@ source_url:
 
 If [Mojo Manor](/projects/mojo-manor) represents a single household which wishes to experiment with intentionally living values to create a better future, what does a network of such houses (and even collective groups of houses) look like? Can we experiment with many different better futures at once to build our skills at imagining life beyond capitalism?
 
-Without dictacting what those better worlds are, or how such collective experiments should work, Panga aims to provide resources, help and a loose framework to enable a wide range of such experimental collectives.
+Without dictating what those better worlds are, or how such collective experiments should work, Panga aims to provide resources, help and a loose framework to enable a wide range of such experimental collectives.
 
 ## My involvement
 
@@ -40,7 +40,7 @@ Panga currently only has one pod (working group) which is the Invocation Pod. Ou
 
 ## Theory of Change
 
-### 1. Prefigurive Politics
+### 1. Prefigurative Politics
 
 > Prefigurative politics is ‘the deliberate experimental implementation of desired future social relations and practices in the here-and-now’ (Boggs, 1977)
 
@@ -50,7 +50,7 @@ The above article outlines better than I can how prefigurative politics is an im
 
 ### 2. Think globally, act locally
 
-Panga is designed to be concentrated in a particular local area. The idea is that supporting an increase in the number of experimental ways of living in a particular area will have a noticable impact on the Overton window locally, and may have ripple effects.
+Panga is designed to be concentrated in a particular local area. The idea is that supporting an increase in the number of experimental ways of living in a particular area will have a noticable impact on the Overton Window locally, and may have ripple effects.
 
 ### 3. Resilience through Collectivism
 
