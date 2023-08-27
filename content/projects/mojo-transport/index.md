@@ -32,6 +32,8 @@ source_url:
 
 Mojo Manor currently has three cars and four residents, and we do an effective informal job of sharing the cars amongst us, and occasionally with other trusted members of our social circles. Cars are a great asset to plan collective usage around, because they're one of the more expensive things we purchase (other than housing), they're a big source of our carbon emissions. We're currently discussing what it would look like to formalise our car sharing into a collective that makes our car fleet available to each others and lets us consider decreasing emissions by introducing electric vehicles. We have also considered that a focus on collectivisation shouldn't, by making our cars even easier to use, cause us to drive more. So, we want to include electric bikes, or other similar options, in the scheme too.
 
+The Mojo Transport Collective will hopefully use [OxBike](/projects/ox-bike) as it's software platform.
+
 ## My involvement
 
 As the only one in the house who doesn't own a car, I have selfish reasons for wanting to collectivise the vehicles so that I have better access. However, it has also sparked my interest as I have financial resources to put towards transport that, in a non-collective situation, I would use to by my own private vehicle or rent transport through a corporate platform. By helping create the system that I want to use, and acknowledging when it buts up against my ingrained expectations of always having private assets whenever I need them (and sometimes just letting myself feel that discomfort but not fixing it), I make a good guinea pig to help develop such a scheme.
