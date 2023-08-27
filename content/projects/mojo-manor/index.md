@@ -13,7 +13,7 @@ expiryDate:
 publishDate:
 
 feature_image: mojo-manor.jpg
-feature_image_alt: Website
+feature_image_alt: A picture of the back yard at mojo manor, showing a raised garden bed and outdoor dining table.
 
 project types:
     - Current
@@ -42,14 +42,14 @@ My housemates are a regular inspiration to me, and all of them put in the work t
 
 ## Theory of Change
 
-### Relationships first
+### 1. Relationships first
 
 Living collectively is a good reminder that no social change occurs alone, and so the first ingredient in all change is relationships. None of us are automatically compatible, and so in collective housing we find that the moments that work well are often built on intentionally strong relationships, and the moments we struggle are when we fail to build those foundations.
 
-### Environmental footprint
+### 2. Environmental footprint
 
 Tackling climate change and ecological crisis is not going to be a personal battle, however taking personal action to live more within our planetary means does help with the cognitive dissonance of living in such an age. By living collectively we share more, and this allows fewer posessions, less food waste, and one less vehicle. However, there's a lot more we could do here which is an interested project for the next few years.
 
-### Disability politics
+### 3. Disability politics
 
 Before living at Mojo Manor, my politics was not fundamentally informed by inclusion of different abilities. I cared in an abstract way about fairness for everyone, but I'm finding that grappling with the fundamental day-to-day obstacles unnecesarily placed in front of access to society for people with a range of physical and mental differences to the norm helps me see more clearly some of the fundamental problems with neoliberal capitalism. A world focussed on collecive wellbeing and happiness would look very different to a world focussed on economic productivity, and we'd all be the richer for it.
