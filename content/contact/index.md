@@ -2,7 +2,7 @@
 type: contact
 title: Get in Touch
 seo_title: Contact
-description: Send me a message to provide feedback about the site, my writing, or anything else on your mind.
+description: Contact details for Jade
 ---
 
-Get in touch to leave feedback or just say hello.
+I'm keen to meet local change-makers and organisations, people interested in any of my projects, or needing help with projects of their own. Drop me a line here, or connect with me on [Mastodon](https://hachyderm.io/@jadehopepunk).
