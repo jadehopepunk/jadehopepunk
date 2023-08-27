@@ -1,8 +1,8 @@
 ---
 title: Mojo Manor
 seo_title: Mojo Manor
-summary: A coliving house founded on principles of intentional relating, disability politics and sex positivity.
-description: A coliving house founded on principles of intentional relating, disability politics, environmentalism and sex positivity.
+summary: A coliving house founded on principles of intentional relating, disability politics, sustainability and sex positivity.
+description: A coliving house founded on principles of intentional relating, disability politics, sustainability and sex positivity.
 slug: mojo-manor
 author: Jade
 
@@ -30,7 +30,7 @@ source_url:
 
 ## About the house
 
-Mojo Manor is a share house in Brunswick West where we're all trying our best to intentionally build a shared and collective home together. We came together largely as a bunch of strangers with some shared values around intentional relating, disability politics, environmentalism and sex positivity, and have muddled our way through lockdowns, life changes, work stresses and mental health struggles. We're still forward looking and hoping to keep building on this as a part of our practice of collectivism.
+Mojo Manor is a share house in Brunswick West where we're all trying our best to intentionally build a shared and collective home together. We came together largely as a bunch of strangers with some shared values around intentional relating, disability politics, sustainability and sex positivity, and have muddled our way through lockdowns, life changes, work stresses and mental health struggles. We're still forward looking and hoping to keep building on this as a part of our practice of collectivism.
 
 Some of our practices for building community include fortnightly house meetings, shared projects and events (olive harvesting, gardening), and weekly house dinners with a check-in circle.
 
