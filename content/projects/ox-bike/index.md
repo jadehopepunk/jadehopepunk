@@ -3,7 +3,7 @@ title: "Ox-Bike: Local-First Vehicle Sharing Software"
 seo_title: "Ox-Bike: Local-First Vehicle Sharing Software"
 summary: Software to run a local multi-house vehicle sharing co-op, even if the internet goes down.
 description:
-slug: mojo-transport
+slug: ox-bike
 author: Jade
 
 draft: false
