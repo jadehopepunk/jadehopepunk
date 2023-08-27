@@ -16,7 +16,7 @@ My pronouns are **he/him** or **they/them**.
 
 I'm 44 years old, and benefit from just about every type of privilege available in Australian society, including being white, male, affluent, non-disabled.
 
-I'm also openly sex-positive, queer, an practicing relationship anarchy. As this site describes my interest projects outside of my professional work, it's important to me to be seen as my whole self in those areas.
+I'm also openly sex-positive, queer, and practicing relationship anarchy. As this site describes my interest projects outside of my professional work, it's important to me to be seen as my whole self in those areas.
 
 ## My Experience
 
