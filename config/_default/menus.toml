@@ -1,17 +1,24 @@
 [[main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 1
-
-[[main]]
     identifier = "about"
     name = "About"
     url = "/about/"
+    weight = 1
+
+[[main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
     weight = 2
+
+[[main]]
+    # Top-level menu entry
+    identifier = "writing"
+    name = "Writing"
+    url = "/posts/"
+    weight = 3
 
 [[main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
+    weight = 4
