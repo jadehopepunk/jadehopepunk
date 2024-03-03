@@ -1,9 +1,9 @@
 ---
-title: Mojo Transport Collective
-seo_title: Mojo Transport Collective
-summary: A vehicle sharing collective starting out of Mojo Manor and perhaps expanding to feature multi-house collectivism.
+title: Radish Transport Collective
+seo_title: Radish Transport Collective
+summary: A vehicle sharing collective starting out of Radish House and perhaps expanding to feature multi-house collectivism.
 description:
-slug: mojo-transport
+slug: radish-transport
 author: Jade
 
 draft: false
@@ -26,13 +26,13 @@ live_url:
 source_url:
 ---
 
-# Mojo Transport
+# Radish Transport
 
 ## About the collective
 
-Mojo Manor currently has three cars and four residents, and we do an effective informal job of sharing the cars amongst us, and occasionally with other trusted members of our social circles. Cars are a great asset to plan collective usage around, because they're one of the more expensive things we purchase (other than housing), they're a big source of our carbon emissions. We're currently discussing what it would look like to formalise our car sharing into a collective that makes our car fleet available to each others and lets us consider decreasing emissions by introducing electric vehicles. We have also considered that a focus on collectivisation shouldn't, by making our cars even easier to use, cause us to drive more. So, we want to include electric bikes, or other similar options, in the scheme too.
+Radish Manor currently has three cars and four residents, and we do an effective informal job of sharing the cars amongst us, and occasionally with other trusted members of our social circles. Cars are a great asset to plan collective usage around, because they're one of the more expensive things we purchase (other than housing), they're a big source of our carbon emissions. We're currently discussing what it would look like to formalise our car sharing into a collective that makes our car fleet available to each others and lets us consider decreasing emissions by introducing electric vehicles. We have also considered that a focus on collectivisation shouldn't, by making our cars even easier to use, cause us to drive more. So, we want to include electric bikes, or other similar options, in the scheme too.
 
-The Mojo Transport Collective will hopefully use [OxBike](/projects/ox-bike) as it's software platform.
+The Radish Transport Collective will hopefully use [OxBike](/projects/ox-bike) as it's software platform.
 
 ## My involvement
 
@@ -50,4 +50,4 @@ We think we can reduce our carbon footprint in collective by electric cars, with
 
 ### 3. Disability access
 
-Commercial car-sharing schemes may not place as much focus on disability access. Since this area is important to Mojo Manor, we are focussed on providing cars with specific conversions made to support our current residents. While this doesn't make them universally more accessible, as people may have different (even competing) accessibility needs, it does demonstrate a commitment that the cost of expensive accessibility conversions is a collective one, not something that should be borne only by people needing those changes.
+Commercial car-sharing schemes may not place as much focus on disability access. Since this area is important to Radish House, we are focussed on providing cars with specific conversions made to support our current residents. While this doesn't make them universally more accessible, as people may have different (even competing) accessibility needs, it does demonstrate a commitment that the cost of expensive accessibility conversions is a collective one, not something that should be borne only by people needing those changes.

@@ -23,7 +23,7 @@ I'm also openly sex-positive, queer, and practicing relationship anarchy. As thi
 My change-making experience is informed by my background, which includes:
 
 * 25 years experience as a software engineer
-* 15 years experience living in intentional communities, including [Earthsong Eco-Neighbourhood](https://www.earthsong.org.nz/), [Atamai Ecovillage](https://www.facebook.com/atamaivillage/), [The Embassy Network](https://embassynetwork.com/) and [Mojo Manor](/projects/mojo-manor).
+* 15 years experience living in intentional communities, including [Earthsong Eco-Neighbourhood](https://www.earthsong.org.nz/), [Atamai Ecovillage](https://www.facebook.com/atamaivillage/), [The Embassy Network](https://embassynetwork.com/) and [Radish House](/projects/radish-house).
 * A long involvement with [Enspiral](https://www.enspiral.com/), including representing our current "Kumara" node in the APAC region.
 * 5 years with Cogent, a values based consultancy, through which I helped build infrastructure for electric cards, mental health and renewable power.
 * 20 years experience as an amateur furniture maker, taught by some great teachers

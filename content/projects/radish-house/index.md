@@ -1,9 +1,9 @@
 ---
-title: Mojo Manor
-seo_title: Mojo Manor
+title: Radish House
+seo_title: Radish House
 summary: A coliving house founded on principles of intentional relating, disability politics, sustainability and sex positivity.
 description: A coliving house founded on principles of intentional relating, disability politics, sustainability and sex positivity.
-slug: mojo-manor
+slug: radish-house
 author: Jade
 
 draft: false
@@ -12,8 +12,8 @@ lastmod:
 expiryDate:
 publishDate:
 
-feature_image: mojo-manor.jpg
-feature_image_alt: A picture of the back yard at mojo manor, showing a raised garden bed and outdoor dining table.
+feature_image: radish-house.jpg
+feature_image_alt: A picture of the back yard at radish house, showing a raised garden bed and outdoor dining table.
 
 project types:
     - Current

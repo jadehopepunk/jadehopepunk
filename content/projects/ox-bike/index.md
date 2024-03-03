@@ -30,9 +30,9 @@ source_url: https://github.com/jadehopepunk/oxbike/
 
 ## About the software
 
-OxBike is a fairly simple software application to track availability and bookings for vehicles in a vehicle sharing scheme. What makes it unique is that it is a local-first app, powered by the excellent [P2Panda Protocol](https://p2panda.org/), which ensures that it each "node" can synchronise data with other nodes. This allows us to run it on a [Raspberry Pi](https://www.raspberrypi.com/) within [Mojo Manor](/projects/mojo-manor), and access it over the local network even without internet. However, as we start to share vehicles with other houses, they can have nodes in their house which synchronise booking requests and acknowledgements as/when they have connection.
+OxBike is a fairly simple software application to track availability and bookings for vehicles in a vehicle sharing scheme. What makes it unique is that it is a local-first app, powered by the excellent [P2Panda Protocol](https://p2panda.org/), which ensures that it each "node" can synchronise data with other nodes. This allows us to run it on a [Raspberry Pi](https://www.raspberrypi.com/) within [Radish House](/projects/radish-house), and access it over the local network even without internet. However, as we start to share vehicles with other houses, they can have nodes in their house which synchronise booking requests and acknowledgements as/when they have connection.
 
-The first users of OxBike will be the [Mojo Transport Collective](/projects/mojo-transport).
+The first users of OxBike will be the [Radish Transport Collective](/projects/radish-transport).
 
 ## My involvement
 

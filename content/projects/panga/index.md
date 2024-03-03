@@ -30,7 +30,7 @@ source_url:
 
 ## About Panga
 
-If [Mojo Manor](/projects/mojo-manor) represents a single household which wishes to experiment with intentionally living values to create a better future, what does a network of such houses (and even collective groups of houses) look like? Can we experiment with many different better futures at once to build our skills at imagining life beyond capitalism?
+If [Radish House](/projects/radish-house) represents a single household which wishes to experiment with intentionally living values to create a better future, what does a network of such houses (and even collective groups of houses) look like? Can we experiment with many different better futures at once to build our skills at imagining life beyond capitalism?
 
 Without dictating what those better worlds are, or how such collective experiments should work, Panga aims to provide resources, help and a loose framework to enable a wide range of such experimental collectives.
 

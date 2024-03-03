@@ -16,7 +16,7 @@ feature_image_alt:
 categories:
   - LocalFirst
 tags:
-  - Mojo Manor
+  - Radish House
   - RedBug
 
 toc: false
@@ -28,7 +28,7 @@ disable_comments: false
 
 # Our Needs
 
-Mojo Manor is a co-living household with four residents. As well as talking in person around the kitchen table, we use written communication in a number of ways:
+Radish House (formerly Mojo Manor) is a co-living household with four residents. As well as talking in person around the kitchen table, we use written communication in a number of ways:
 
 * A signal chat that usually contains time sensitive messages like "can you pick up some bread"
 * Some additional signal chats to include common visitors, or discuss special topics like the garden roster
@@ -43,7 +43,7 @@ The obvious place is yes another google doc, or if we want to structure our thou
 
 # The Medium is the Message
 
-At Mojo Manor, we're starting to talk about future plans. We want to collectivise resources more, be more intentional about our relationships, and do more to tackle the ecological and social challenges of our time.
+At Radish House, we're starting to talk about future plans. We want to collectivise resources more, be more intentional about our relationships, and do more to tackle the ecological and social challenges of our time.
 
 We've discussed making big changes, like moving into our perfect co-living house, but what's resonating with us more right now is trying [small and slow solutions](https://permacultureprinciples.com/permaculture-principles/_9/) that help us improve where we are now, allow us to get better at relating intentionally, and help us [prefigure](https://commonslibrary.org/prefigurative-politics-in-practice/) the future we want to live in.
 
@@ -55,7 +55,7 @@ There's a growing trend around [#LocalFirst](https://martin.kleppmann.com/papers
 
 That feels more resilient, which is important to me in an era of growing climate crisis. However, the way it's expressed can feel very individualistic. I don't want self-sovereign data, I want data that is contextualised and embedded in the community and place in which it is developed and used.
 
-For us at Mojo Manor, that means that the "local" in "local first" isn't the individual, it's the house. This means I want to store our house knowledge in a way that:
+For us at Radish House, that means that the "local" in "local first" isn't the individual, it's the house. This means I want to store our house knowledge in a way that:
 
 * Works for those in the house even if centralised services (the internet) go down
 * Is controlled by the house, and tinkerable and customizable to our needs
@@ -64,7 +64,7 @@ For us at Mojo Manor, that means that the "local" in "local first" isn't the ind
 
 An obvious solution was to store our knowledge on a server on our local wifi network in the house. When we start to think about multi-user web software, we don't need fancy "local first" systems like [Anytype](https://anytype.io/) or [AppFlowy](https://appflowy.io/). In fact there's several decades of nice little PHP web apps to choose from.
 
-In the end, we went went with [Dokuwiki](https://www.dokuwiki.org/dokuwiki). It's not everything I think we might need, but it's simple enough to get us started and better learn what our needs are. We're running it on a Raspberry Pi, on the local network. So for us, it's just at `mojo.local/wiki`.
+In the end, we went went with [Dokuwiki](https://www.dokuwiki.org/dokuwiki). It's not everything I think we might need, but it's simple enough to get us started and better learn what our needs are. We're running it on a Raspberry Pi, on the local network. So for us, it's just at `radish.local/wiki`.
 
 # Infrastructure as Code
 
@@ -84,7 +84,7 @@ Here is my ansible project for setting up a Raspberry Pi to run Dokuwiki, as wel
 
 [redbugcollective/household-pi-setup](https://github.com/redbugcollective/household-pi-setup)
 
-I'm going to keep working on this, and add the other apps that Mojo Manor needs, so if you only want Dokuwiki, for it or use it as a reference.
+I'm going to keep working on this, and add the other apps that Radish House needs, so if you only want Dokuwiki, for it or use it as a reference.
 
 ## Backup
 
