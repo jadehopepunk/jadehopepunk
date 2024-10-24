@@ -1,9 +1,9 @@
 ---
-title: Merri-bek Community Web Hosting
+title: Merri-bek Tech
 seo_title:
 summary: Local web hosting run physically within Merri-bek using local skills and power, and providing web software for local people and organisations.
 description:
-slug: merri-bek-hosting
+slug: merri-bek-tech
 author: Jade
 
 draft: false
@@ -23,7 +23,7 @@ techstack:
     - Local-first
     - Resilience
     - Technology
-live_url:
+live_url: https://merri-bek.tech
 ---
 
 # Merri-Bek Community Web Hosting
