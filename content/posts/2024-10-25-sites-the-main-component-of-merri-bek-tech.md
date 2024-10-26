@@ -80,7 +80,7 @@ Containerisation is a common approach to bundling up an app, and everything that
 
 ### Docker swarm
 
-As we start to run applications that consist of multiple services, possibly running across more than one Raspberry Pi, we're going to want a way to orchestrate multiple docker containers. There are two main options for this, Kubernetes and Docker Swarm. Kubernetes was developed by Google to run billions of containers, and is the standard approach in large industry. Many people find, however, that it's just too confusing and hard to learn for smaller projects.
+As we start to run applications that consist of multiple services, possibly running across more than one Raspberry Pi, we're going to want a way to orchestrate docker containers across multiple machines. There are two main options for this, Kubernetes and Docker Swarm. Kubernetes was developed by Google to run billions of containers, and is the standard approach in large industry. Many people find, however, that it's just too confusing and hard to learn for smaller projects.
 
 [Docker Swarm](https://docs.docker.com/engine/swarm/) is right sized for us. It allows our Raspberry Pis to all be treated as one swarm offering a generalised ability to run services. You can run a service across any number of nodes (the Pis). It handles joining new Pis into the swarm, having the drop out due to failure, and so on.
 
