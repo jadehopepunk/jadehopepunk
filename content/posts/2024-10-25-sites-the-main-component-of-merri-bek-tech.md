@@ -46,15 +46,15 @@ Each Pi runs it's operating system off an SD Card, and uses that as a mini hard 
 
 ### Networking
 
-The site needs a network switch, with a port for each Pi. The more Pis, the more ports needed. In addition to that, it needs to plug into the internet access of the builder (or connect via wifi). Redundant options (an included wifi router and/or 4/5G modem) are being considered. As soon as we have two sites live, we plan to start testing communication technologies such as LoRa.
+The site needs a network switch, with a port for each Pi. The more Pis, the more ports needed. In addition to that, it needs to plug into the internet access of the building (or connect via wifi). Redundant options (an included wifi router and/or 4/5G modem) are being considered. As soon as we have two sites live, we plan to start testing communication technologies such as LoRa.
 
 ### Putting it all together
 
-A site based on three Pis isn't very large, and probably fits in a shoebox. Adding a battery supply makes it bigger. We'll develop some options for form factors that wont be unwelcome in community facilities.
+A site based on three Pis isn't very large, and probably fits in a shoebox. Adding a battery supply makes it bigger. We'll develop some options for form factors that won't be unwelcome in community facilities.
 
 ## The people who setup and run a Site
 
-At Merri-bek Tech our model is something of a hybrid of central organisation with decentralisation. We want to be more solarpunk than corporate, and have room for people to tinker and manage stuff themselves, but we also want to be able to run a web service for say, the local bowls club, and provide them with some confidence that their website wont be defaced and their membership register not looked at.
+At Merri-bek Tech our model is something of a hybrid of central organisation with decentralisation. We want to be more solarpunk than corporate, and have room for people to tinker and manage stuff themselves, but we also want to be able to run a web service for say, the local bowls club, and provide them with some confidence that their website won't be defaced and their membership register not looked at.
 
 All this means we want to encourage small groups to manage parts of the infrastructure, but on behalf of the broader community and with some responsibilities. We call this process "**Stewardship**" rather than management or ownership.
 
@@ -80,9 +80,9 @@ Containerisation is a common approach to bundling up an app, and everything that
 
 ### Docker swarm
 
-As we start to run applications that consist of multiple services, possible running across more than one Raspberry Pi, we're going to want a way to orchestrate multiple docker containers. There are two main options for this, Kubernetes and Docker Swarm. Kubernetes was developed by Google to run billions of containers, and is the standard approach in large industry. Many people find, however, that it's just too confusing and hard to learn for smaller projects.
+As we start to run applications that consist of multiple services, possibly running across more than one Raspberry Pi, we're going to want a way to orchestrate docker containers across multiple machines. There are two main options for this, Kubernetes and Docker Swarm. Kubernetes was developed by Google to run billions of containers, and is the standard approach in large industry. Many people find, however, that it's just too confusing and hard to learn for smaller projects.
 
-[Docker Swarm](https://docs.docker.com/engine/swarm/) is right sized for us. It allows our Raspberry Pi's to all be treated as one swarm offering a generalised ability to run services. You can run a service across any number of nodes (the Pis). It handles joining new Pis into the swarm, having the drop out due to failure, and so on.
+[Docker Swarm](https://docs.docker.com/engine/swarm/) is right sized for us. It allows our Raspberry Pis to all be treated as one swarm offering a generalised ability to run services. You can run a service across any number of nodes (the Pis). It handles joining new Pis into the swarm, having the drop out due to failure, and so on.
 
 While no tech choice is perfect, our current approach is to decide on Docker Swarm as our interface layer between Site and Application, and move on from there.
 
