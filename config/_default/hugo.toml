@@ -1,7 +1,7 @@
 ### General
-baseURL = 'https://www.example.com/' # Enter your full production URL
-languageCode = 'en-us' # Default
-timeZone = 'America/New_York' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+baseURL = 'https://jade.hopepunk.me/' # Enter your full production URL
+languageCode = 'en-au' # Default
+timeZone = 'Australia/Melbourne' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 title = 'Jade' # Site title used throughout site
 
 ### SEO, Analytics & 3rd-party
