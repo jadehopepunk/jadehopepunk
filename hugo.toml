@@ -1,1 +1,2 @@
 theme = 'hugo-liftoff'
+baseURL = "https://jade.hopepunk.me/"
