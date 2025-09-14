@@ -28,7 +28,7 @@ clone:
 steps:
   # Build hugo static files
   build:
-    image: hugomods/hugo:exts
+    image: hugomods/hugo:exts-0.115.4
     commands:
       - hugo --minify
     when:
