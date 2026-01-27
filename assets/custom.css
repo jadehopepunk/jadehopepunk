@@ -1,3 +1,11 @@
 :root, [data-theme="dark"] {
   --color-primary: #339966;
 }
+
+.single-feature-img img {
+  filter: none;
+}
+
+.project-entry-img img {
+  filter: none;
+}

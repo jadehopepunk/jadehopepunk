@@ -12,7 +12,7 @@ lastmod:
 expiryDate:
 publishDate:
 
-feature_image: radish-house.jpg
+feature_image: radish-house.jpeg
 feature_image_alt: A picture of the back yard at radish house, showing a raised garden bed and outdoor dining table.
 
 project types:

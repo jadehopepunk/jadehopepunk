@@ -1,5 +1,5 @@
 ---
-title: Jade lives in Merri-bek and cares about building better futures.
+title: Jade lives in Naarm and cares about building better futures.
 subtitle: This is my home on the web to share my projects, meet collaborators, and learn how to live as if the planet is on the line.
 seo_title: Jade
 feature-image: anarchist-bookshelf.jpg
