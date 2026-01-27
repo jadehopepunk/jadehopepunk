@@ -13,7 +13,7 @@ expiryDate:
 publishDate:
 
 feature_image: RAD_4x3.png
-feature_image_alt: A picture of the back yard at radish house, showing a raised garden bed and outdoor dining table.
+feature_image_alt: A square of half red, half green, with the words "Rad Housing" on it.
 
 project types:
     - Current
@@ -21,8 +21,7 @@ project types:
 techstack:
     - Housing
     - Collectivism
-    - Accessability
-live_url:
+live_url: https://radhousing.org/
 source_url:
 ---
 
