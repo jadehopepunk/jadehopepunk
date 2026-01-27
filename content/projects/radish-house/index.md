@@ -13,7 +13,7 @@ expiryDate:
 publishDate:
 
 feature_image: radish-house.jpeg
-feature_image_alt: A picture of the back yard at radish house, showing a raised garden bed and outdoor dining table.
+feature_image_alt: A picture of the front at radish house, showing the raised garden beds on the lawn.
 
 project types:
     - Current
@@ -26,11 +26,11 @@ live_url:
 source_url:
 ---
 
-# Mojo Manor
+# Radish House
 
 ## About the house
 
-Mojo Manor is a share house in Brunswick West where we're all trying our best to intentionally build a shared and collective home together. We came together largely as a bunch of strangers with some shared values around intentional relating, disability politics, sustainability and sex positivity, and have muddled our way through lock-downs, life changes, work stresses and mental health struggles. We're still forward looking and hoping to keep building on this as a part of our practice of collectivism.
+Radish House is a share house in ~~Brunswick West~~ (now in Preston) where we're all trying our best to intentionally build a shared and collective home together. We came together largely as a bunch of strangers with some shared values around intentional relating, disability politics, sustainability and sex positivity, and have muddled our way through lock-downs, life changes, work stresses and mental health struggles. We're still forward looking and hoping to keep building on this as a part of our practice of collectivism.
 
 Some of our practices for building community include fortnightly house meetings, shared projects and events (olive harvesting, gardening), and weekly house dinners with a check-in circle.
 
@@ -52,4 +52,4 @@ Tackling climate change and ecological crisis is not going to be a personal batt
 
 ### 3. Disability politics
 
-Before living at Mojo Manor, my politics was not fundamentally informed by inclusion of different abilities. I cared in an abstract way about fairness for everyone, but I'm finding that grappling with the fundamental day-to-day obstacles unnecessarily placed in front of access to society for people with a range of physical and mental differences to the norm helps me see more clearly some of the fundamental problems with neoliberal capitalism. A world focussed on collective wellbeing and happiness would look very different to a world focussed on economic productivity, and we'd all be the richer for it.
+Before living at Radish House, my politics was not fundamentally informed by inclusion of different abilities. I cared in an abstract way about fairness for everyone, but I'm finding that grappling with the fundamental day-to-day obstacles unnecessarily placed in front of access to society for people with a range of physical and mental differences to the norm helps me see more clearly some of the fundamental problems with neoliberal capitalism. A world focussed on collective wellbeing and happiness would look very different to a world focussed on economic productivity, and we'd all be the richer for it.
