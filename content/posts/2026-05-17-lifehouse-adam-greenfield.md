@@ -21,7 +21,7 @@ disable_comments: false
 ---
 
 
-I've just finished reading [Lifehouse](https://www.penguinrandomhouse.com/books/733978/lifehouse-by-adam-greenfield/) bu Adam Greenfield. The essential premises are that (1) We can't do anything much about the climate crisis at this point, we're in for a long emergency, and (2) That local grass-roots mutual aid projects are best suited to dealing with crisis, and do contain a glimmer of hope for a more just society.
+I've just finished reading [Lifehouse](https://www.penguinrandomhouse.com/books/733978/lifehouse-by-adam-greenfield/) by Adam Greenfield. The essential premises are that (1) We can't do anything much about the climate crisis at this point, we're in for a long emergency, and (2) That local grass-roots mutual aid projects are best suited to dealing with crisis, and do contain a glimmer of hope for a more just society.
 
 Greenfield goes through a history of mutual aid projects, looking at their effectiveness in crisis (Occupy Sandy, and Commonground in New Orleans) and at the moments of just society they have created (Rojava, the Black Panthers, Solidarity Clinics in Greece, Barcelona en Comú). His take on this is not starry eyed, as he explores the political underpinnings such as Bookchin, and isn't shy about airing their dirty laundry.
 
