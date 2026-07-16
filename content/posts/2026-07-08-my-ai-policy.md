@@ -35,7 +35,7 @@ Aside from unjust use, LLMs have risks that we do not totally understand yet. Th
 
 LLMs are also contributing to the massive expansion of data centers, which are increasing climate emissions in an area that is already way too high, in addition to using massive amounts of water.
 
-In my field, software engineering, LLMs are frequently criticised for lowering code quality and providing little return. In my experience, they do not necessarily lead to that. Unattended "vibe coding" may do so, but the use of LLMs to assist experience programmers has so far in my experince lead to better designed code, more bugs caught before runtime, better development tooling and a massive increase in efficiency. The capitalists like this technology for a reason - they aren't just imagining that it works, it does in fact often work at increasing developer efficiency.
+In my field, software engineering, LLMs are frequently criticised for lowering code quality and providing little return. In my experience, they do not necessarily lead to that. Unattended "vibe coding" may do so, but the use of LLMs to assist experience programmers has so far in my experince led to better designed code, more bugs caught before runtime, better development tooling and a massive increase in efficiency. The capitalists like this technology for a reason - they aren't just imagining that it works, it does in fact often work at increasing developer efficiency.
 
 Given these potentially contradictory thoughts, I currently feel the need to choose a path that is neither AI boosting, nor refusal. That requires me to make constant ethical decisions in the use of LLMs, and so I have made some decisions in advance in my personal AI policy, which I can follow without having to revisit each time.
 
