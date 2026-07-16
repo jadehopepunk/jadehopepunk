@@ -65,7 +65,7 @@ This is `v1.0.0`. This field is moving fast, and I expect to need to make change
 
 * I do not use LLMs to produce artistic output, including images, visual design, music and stories
 * I do not use LLMs to assist with qualitative research
-* I do not use LLMs to automate the specific jobs currently generating livelihoods, without an equitable re-training and jobs stransition plan in place.
+* I do not use LLMs to automate specific jobs currently generating livelihoods, without an equitable re-training and jobs stransition plan in place.
 
 ### 4. Don't strain the commons
 
