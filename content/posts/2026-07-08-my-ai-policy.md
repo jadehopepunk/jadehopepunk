@@ -29,7 +29,7 @@ I've avoided developing a firm position on any of this, hoping that an approach 
 
 ### My general thoughts on AI
 
-In general, I believe that the combination of AI and Capitalism is making our world worse. I sympathise with the Luddites, were not against technology, they were against the use of technology by the rich to destroy their options for just livelihoods. Given that, it is clear that **even if** LLMs were a unambiguously positive technology for the world they are are a massive accelerate of injustice when in the hands of the tech billionaires and national militaries.
+In general, I believe that the combination of AI and Capitalism is making our world worse. I sympathise with the Luddites, were not against technology, they were against the use of technology by the rich to destroy their options for just livelihoods. Given that, it is clear that **even if** LLMs were a unambiguously positive technology for the world they are also a massive accelerator of injustice when in the hands of the tech billionaires and national militaries.
 
 Aside from unjust use, LLMs have risks that we do not totally understand yet. They can contribute to de-skilling us, they may bias our psychology towards narcisism, they remove friction from life in areas that may harm creative thought and art. If I could put this genie back in the bottle, at least under the current circumstances, I would. I am not yet convined that a "No AI" movement has any chance of success, but I have much appreciation for such an approach.
 
@@ -43,7 +43,7 @@ Given these potentially contradictory thoughts, I currently feel the need to cho
 
 This is my current personal policy around AI use. I will attempt to apply it both in my paid and unpaid work. I'm open to different approaches when working in collaborations with others, but generally ones that limit AI use **more** than this policy, not less.
 
-This is `v1.0.0`. This field is moving fast, and I expect to need to make changes.
+This is `v1.1.0`. This field is moving fast, and I expect to need to make changes.
 
 ## Principles & Practices
 
@@ -70,7 +70,8 @@ This is `v1.0.0`. This field is moving fast, and I expect to need to make change
 ### 4. Don't strain the commons
 
 * I do not create work for humans by allowing agents to contact them, or to file bug reports or submit code.
-* I do not allow my LLM use to dramatically increase my rate of interaction with project maintainers
+* I do not allow my LLM use to dramatically increase my rate of interaction with project maintainers.
+* I never ask another developer to review LLM generated code unless I have closely reviewed it first.
 
 ### 5. Support AI refusal
 
