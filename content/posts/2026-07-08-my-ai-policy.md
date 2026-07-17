@@ -49,51 +49,51 @@ This is `v1.1.0`. This field is moving fast, and I expect to need to make change
 
 ### 1. Don't use AI to mediate human experience
 
-* I do not use LLMs to produce documents for humans to read
-* I do not use LLMs to summarise communication intended to be read by me
+* I do not use LLMs to produce documents for humans to read.
+* I do not use LLMs to summarise communication intended to be read by me.
 * I never use LLMs to describe goals, strategy or problems, including writing descriptions of code submissions.
 
 ### 2. Don't push AI expansion
 
-* I turn off "AI" features in products I use unless specifically opting in to a use under this policy
-* I do not use LLMs to search the web
-* I do not use LLMs in any hobbies or recreation in any way
-* I do not build user facing "AI" features into any products that I build
-* I do not use LLMs at runtime in my software
+* I turn off "AI" features in products I use unless specifically opting in to a use under this policy.
+* I do not use LLMs to search the web.
+* I do not use LLMs in any hobbies or recreation in any way.
+* I do not build user facing "AI" features into any products that I build.
+* I do not use LLMs at runtime in my software.
 
 ### 3. Don't cross the picket line
 
-* I do not use LLMs to produce artistic output, including images, visual design, music and stories
-* I do not use LLMs to assist with qualitative research
-* I do not use LLMs to automate specific jobs currently generating livelihoods, without an equitable re-training and transition plan in place
+* I do not use LLMs to produce artistic output, including images, visual design, music and stories.
+* I do not use LLMs to assist with qualitative research.
+* I do not use LLMs to automate specific jobs currently generating livelihoods, without an equitable re-training and transition plan in place.
 
 ### 4. Don't strain the commons
 
-* I do not create work for humans by allowing agents to contact them, or to file bug reports or submit code
-* I do not allow my LLM use to dramatically increase my rate of interaction with project maintainers
-* I never ask another developer to review LLM generated code unless I have closely reviewed it first
+* I do not create work for humans by allowing agents to contact them, or to file bug reports or submit code.
+* I do not allow my LLM use to dramatically increase my rate of interaction with project maintainers.
+* I never ask another developer to review LLM generated code unless I have closely reviewed it first.
 
 ### 5. Support AI refusal
 
-* I never require collaborators to use LLMs
-* I ensure my projects have clear instructions for setup and use
-* The intended audience of my code, code documentation and code comments is always humans
-* When contributing to projects refusing uses of LLMs, I abide by their policies without criticism
+* I never require collaborators to use LLMs.
+* I ensure my projects have clear instructions for setup and use.
+* The intended audience of my code, code documentation and code comments is always humans.
+* When contributing to projects refusing uses of LLMs, I abide by their policies without criticism.
 
 ### 6. I currently use LLM coding assistants, with guard rails
 
 The following practices apply only to areas where I have significant expertise so that I can act as a human-in-the-loop.
 
-* I sometimes code entirely without LLM assistance to ensure I still can
-* I particularly lean in to LLM assistance to perform refactorings and code improvements I might be too lazy to do manually
-* I do not "vibe code"
-* I use LLMs to help improve developer experience for humans by automating otherwise time-consuming processes like build and installs
+* I sometimes code entirely without LLM assistance to ensure I still can. To help remind me of this, I do not use LLMs on Wednesdays.
+* I particularly lean in to LLM assistance to perform refactorings and code improvements I might be too lazy to do manually.
+* I do not "vibe code".
+* I use LLMs to help improve developer experience for humans by automating otherwise time-consuming processes like build and installs.
 
 ### 7. I acknowledge that use of LLMs contributes to the climate crisis & tech oligarch hegemony
 
 * If I continue to use LLM coding assistants I will:
-  * Develop a credible strategy by EOY 2026 to move onto open-weight models
-  * Research and publish the climate impacts of my model use by EOY 2026
-  * Ensure that the models I use are powered entirely by renewables by EOY 2027
+  * Develop a credible strategy by EOY 2026 to move onto open-weight models.
+  * Research and publish the climate impacts of my model use by EOY 2026.
+  * Ensure that the models I use are powered entirely by renewables by EOY 2027.
 
 
