@@ -5,8 +5,8 @@ summary: This is my current personal policy around AI use, v1.0.0. I will attemp
 author: Jade
 
 draft: false
-date: 2026-07-08T1:00:00+10:00
-lastmod: 2026-07-08T1:00:00+10:00
+date: 2026-07-15T1:00:00+10:00
+lastmod: 2026-07-17T1:00:00+10:00
 
 feature_image:
 feature_image_alt:
@@ -43,7 +43,7 @@ Given these potentially contradictory thoughts, I currently feel the need to cho
 
 This is my current personal policy around AI use. I will attempt to apply it both in my paid and unpaid work. I'm open to different approaches when working in collaborations with others, but generally ones that limit AI use **more** than this policy, not less.
 
-This is `v1.1.0`. This field is moving fast, and I expect to need to make changes.
+This is `v1.2.0`. This field is moving fast, and I expect to need to make changes.
 
 ## Principles & Practices
 
@@ -96,4 +96,8 @@ The following practices apply only to areas where I have significant expertise s
   * Research and publish the climate impacts of my model use by EOY 2026.
   * Ensure that the models I use are powered entirely by renewables by EOY 2027.
 
+## Changelog
 
+* `v1.2.0` introduce no AI on Wednesdays (17 July, 2026)
+* `v1.1.0` introduce new categies for "don't cross the picket line" (16 July, 2026)
+* `v1.0.0` initial version (15 July, 2026)
