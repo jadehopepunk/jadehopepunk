@@ -1,7 +1,7 @@
 ---
 title: "Personal AI Policy"
 slug: "my-ai-policy"
-summary: This is my current personal policy around AI use, v1.0.0. I will attempt to apply it both in my paid and unpaid work.
+summary: This is my current personal policy around AI use, v1.2.0. I will attempt to apply it both in my paid and unpaid work.
 author: Jade
 
 draft: false
