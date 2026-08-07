@@ -29,10 +29,6 @@ custom_css = 'custom.css' # Add the specified file to assets before setting this
 images = ['images/default.png'] # Fallback for Open Graph and Twitter Cards images if none are present in front matter. Enter path to the image.
 ogLocale = "en_US" # Open graph locale
 
-# Twitter Cards
-twitterSite = "johndoestwitter" # Enter your twitter handle without the @
-twitterCreator = "johndoestwitter" # Enter your twitter handle without the @
-
 # JSON-LD structured data schemas
 schemaName = "Jade" # Enter your name
 schemaLocale = "en-AU" # Structured data locale
