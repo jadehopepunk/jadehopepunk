@@ -1,7 +1,7 @@
 ---
 title: "Invoking \"Bunker Buddies\""
 slug: "invoking-bunker-buddies"
-summary: "Help me invoke \"Bunker Buddies\" - a local club you can join that meets to discuss and support each other in increasing household food storage. It's about real food resilience for a future of shocks, but it's also about creating a fun, safe and inclusive atmosphere to talk about emergency preparedness in a way that playfully dispells the mucho image of the isolated prepper, and instead leans into community solidarity."
+summary: "Help me invoke \"Bunker Buddies\" - a local club you can join that meets to discuss and support each other in increasing household food storage. It's about real food resilience for a future of shocks, but it's also about creating a fun, safe and inclusive atmosphere to talk about emergency preparedness in a way that playfully dispells the macho image of the isolated prepper, and instead leans into community solidarity."
 author: Jade
 
 draft: false
@@ -25,7 +25,7 @@ I've got an idea for new cute little project, and if you know me you'll know how
 
 ## Quick Summary
 
-This project is called **Bunker Buddies**, a local club you can join that meets to discuss and support each other in increasing household food storage. It's about real food resilience for a future of shocks, but it's also about creating a fun, safe and inclusive atmosphere to talk about emergency preparedness in a way that playfully dispells the mucho image of the isolated prepper, and instead leans into community solidarity.
+This project is called **Bunker Buddies**, a local club you can join that meets to discuss and support each other in increasing household food storage. It's about real food resilience for a future of shocks, but it's also about creating a fun, safe and inclusive atmosphere to talk about emergency preparedness in a way that playfully dispells the macho image of the isolated prepper, and instead leans into community solidarity.
 
 This project is within the context of privledged folks in developed western nations, in particular "Australia".
 
@@ -61,7 +61,7 @@ We need to reclaim the image of the prepper from the libertarian right. We do th
 
 #### De-macho the image
 
-By making the imagery, language and process used by this group very different from the hyper-militaristic and mucho vibes common to much prepping, we privide an alternative pathway for those who are worried about the polycrisis. The suggestion for Bunker Buddies is a juxtaposition of prepper ideas and words (the idea of "bunker", "collapse", etc) with cute animals, rainbows, and earnest friendliness. Imagine a colourful website, with header imagery featuring cute and queer looking woodland animals helping each other into a bunker.
+By making the imagery, language and process used by this group very different from the hyper-militaristic and macho vibes common to much prepping, we privide an alternative pathway for those who are worried about the polycrisis. The suggestion for Bunker Buddies is a juxtaposition of prepper ideas and words (the idea of "bunker", "collapse", etc) with cute animals, rainbows, and earnest friendliness. Imagine a colourful website, with header imagery featuring cute and queer looking woodland animals helping each other into a bunker.
 
 #### Re-focus on community
 
